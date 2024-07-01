@@ -1,0 +1,34 @@
+p {
+  font-family: roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 5px;
+  width: 280px;
+}
+.video-stats,
+.video-creator,
+.video-text {
+  font-size: 14px;
+  color: #606060;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+.link {
+  background-color: #e34140;
+  padding: 16px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.span:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
