@@ -1,0 +1,6 @@
+.thumbnail {
+  width: 300px;
+}
+.video-author,.video-stats {
+  display: inline-block;
+}

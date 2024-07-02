@@ -1,0 +1,20 @@
+.grey {
+  color: grey;
+  font-size: 16px;
+}
+.textbox {
+  width: 380px;
+  height: 30px;
+  border: solid;
+  border-radius: 5px;;
+  border-color: black;  
+  border-width: 2px;
+}
+.button {
+  background-color: blue;
+  color: white;
+  padding: 15px 150px;
+  font-size: 15px;
+  border: none;
+  border-radius: 25px;
+}
