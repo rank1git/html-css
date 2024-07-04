@@ -1,0 +1,21 @@
+.header {
+  height: 55px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}
+.left-section {
+ background-color: red;
+ width: 150px;
+}
+.middle-section {
+  background-color: green;
+  flex: 1;
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 500px;
+}
+.right-section {
+  background-color: red;
+  width: 200px;
+}
